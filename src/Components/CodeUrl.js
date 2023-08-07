@@ -31,5 +31,5 @@ export const CodeUrl = {
 
   //resume urls
   resume:
-    "https://drive.google.com/file/d/1IerJNNicv0szq9HuG5VfuUgJ58ooibwr/view?usp=sharing",
+    "https://drive.google.com/file/d/1yHupEIkpkoK6vayPAzDrG985LqQqM4s1/view?usp=sharing",
 };
